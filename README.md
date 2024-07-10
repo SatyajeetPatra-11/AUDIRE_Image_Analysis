@@ -33,12 +33,8 @@
 - *Google GTTS*
 
 ## Output Snapshots 
-
-![WhatsApp Image 2024-07-10 at 14 15 47_bd00cdf3](https://github.com/SatyajeetPatra-11/AUDIRE-Cohort-of-Data-Image-Analysis-/assets/117520211/dfe480ff-adff-4b2d-b874-26b67b033d1f)
-
   
 ![WhatsApp Image 2024-07-10 at 14 15 46_7983e5f3](https://github.com/SatyajeetPatra-11/AUDIRE-Cohort-of-Data-Image-Analysis-/assets/117520211/9782337a-f776-4c95-bf23-dc0b931b1f01)
-
 
 ![WhatsApp Image 2024-07-10 at 14 15 46_8a1c77ed](https://github.com/SatyajeetPatra-11/AUDIRE-Cohort-of-Data-Image-Analysis-/assets/117520211/771d1abd-1f99-4036-b0ba-6ed49efa5ee0)
 
