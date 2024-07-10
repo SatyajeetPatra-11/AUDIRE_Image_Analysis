@@ -1,4 +1,4 @@
-# AUDIRE-Cohort of Data ( Image Analysis )
+![WhatsApp Image 2024-07-10 at 14 15 47_1e50e2f7](https://github.com/SatyajeetPatra-11/AUDIRE-Cohort-of-Data-Image-Analysis-/assets/117520211/718c1e7b-d9e2-4285-81ea-dc267cd0370f)# AUDIRE-Cohort of Data ( Image Analysis )
 
 "AUDIRE : COHORT OF DATA" is a multi-modal AI application that integrates advanced image and speech processing technologies. It aims to provide a seamless interface for users to interact with images using voice commands, and to receive detailed image descriptions and responses in both text and audio formats. By leveraging state-of-the-art models from Hugging Face's transformers and OpenAI's Whisper, this project showcases the potential of AI in enhancing human-computer interactions through natural language and visual understanding.
  
@@ -14,7 +14,7 @@
    - The model detects the language of the audio input, ensuring accurate transcription
     
  
-3. **Multi Output Format **:
+3. **Multi Output Format**:
    - Text Output : The model is to provide the  description of image in and summarizes the text within 200 words to diplay in front of user.
    -  Audio Output :The detailed image description or the response to the user's query is converted back into speech.
  
@@ -31,7 +31,16 @@
 - *Whisper*
 - *NLTK*
 - *Google GTTS*
+
+## Output Snapshots 
+
+![WhatsApp Image 2024-07-10 at 14 15 47_bd00cdf3](https://github.com/SatyajeetPatra-11/AUDIRE-Cohort-of-Data-Image-Analysis-/assets/117520211/dfe480ff-adff-4b2d-b874-26b67b033d1f)
+
   
+![WhatsApp Image 2024-07-10 at 14 15 46_7983e5f3](https://github.com/SatyajeetPatra-11/AUDIRE-Cohort-of-Data-Image-Analysis-/assets/117520211/9782337a-f776-4c95-bf23-dc0b931b1f01)
+
+
+![WhatsApp Image 2024-07-10 at 14 15 46_8a1c77ed](https://github.com/SatyajeetPatra-11/AUDIRE-Cohort-of-Data-Image-Analysis-/assets/117520211/771d1abd-1f99-4036-b0ba-6ed49efa5ee0)
 
 
 
