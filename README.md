@@ -6,9 +6,11 @@ The project "AUDIRE : COHORT OF DATA" is a multi-modal AI application that integ
 Functionality
 Image Description and Analysis:
 
-Image Input: Users can upload an image, which is then processed by an image-to-text pipeline using the LLaVA model. The model generates a detailed description of the image, highlighting its characteristics and answering specific queries about it.
+Image Input: Users can upload an image, which is then processed by an image-to-text pipeline using the LLaVA model. 
+The model generates a detailed description of the image, highlighting its characteristics and answering specific queries about it.
+
 Detailed Prompts: The model is prompted with detailed instructions to provide in-depth analyses, ensuring that the generated descriptions are rich in detail and accuracy.
-Speech-to-Text Transcription:
+Speech-to-Text Transcription 
 
 Audio Input: Users can provide voice input via a microphone. The Whisper model from OpenAI transcribes the spoken words into text. This text is then used as a prompt for the image analysis, creating an interactive experience where users can ask questions about the image.
 Language Detection: The model detects the language of the audio input, ensuring accurate transcription.
